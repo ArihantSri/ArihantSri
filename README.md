@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arihant Srivastav</h1>
 <h3 align="center">A passionate Web & Application Developer from India.</h3>
 
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F24x7offshoring.com%2Foutsource-software-development%2F&psig=AOvVaw09CsDXBtkng_6_ehaKKXsp&ust=1756125038138000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJi1hN65o48DFQAAAAAdAAAAABAE" width="408" height="318" />
+<img align="right" alt="GIF" src="https://24x7offshoring.com/wp-content/uploads/2023/01/full-stack-development.gif" width="408" height="318" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arihantsri&label=Profile%20views&color=0e75b6&style=flat" alt="arihantsri" /> </p>
 
 - 🔭 I’m currently working on **Chess.com** Project to learn about **Backend**.
