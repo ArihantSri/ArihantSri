@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arihant Srivastav</h1>
+<h1 align="center">Hi 👋, I'm Arihant Srivastava</h1>
 <h3 align="center">A passionate Web & Application Developer from India.</h3>
 
 <img align="right" alt="GIF" src="https://24x7offshoring.com/wp-content/uploads/2023/01/full-stack-development.gif" width="408" height="318" />
