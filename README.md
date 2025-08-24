@@ -1,42 +1,33 @@
 <h1 align="center">Hi 👋, I'm Arihant Srivastav</h1>
-<h3 align="center">A passionate Mern Full Stack Developer from India.</h3>
+<h3 align="center">A passionate Web & Application Developer from India.</h3>
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arihantsri&label=Profile%20views&color=0e75b6&style=flat" alt="arihantsri" /> </p>
 
-- 🔭 I’m currently working on Reactjs Project **Admin Splasher**
+- 🔭 I’m currently working on **Chess.com** Project to learn about **Backend**.
 
-- 🌱  I'm currently learning: Data Science and Search engine optimization(SEO) on Digipodium Tools and technologies from React ecosystem
+- 🌱  I'm currently learning:**Node.js, Socket.io, React.js, Angular** 
 
 - 📫 How to reach me **arihants1622@gmail.com**
 
-- 👯 I’m currently Pursuing **B.C.A.** from Babu Banarsi Das University,Lucknow
+- 👯 I’m a recent Post-Graduate in **M.C.A.** from Babu Banarasi Das University, Lucknow, and hold a **B.C.A.** degree from the same institution.
 
-- 🤝 I'm the Discipline Head at **Event Organization** in Babu Banarsi Das University
+- 🤝 In 2020-23, I'm the **CR(Class Representative)** at **B.C.A** in Babu Banarsi Das University, Lucknow.
+- 🤝 In 2021-23, I'm the **AGS(Assistant General Secretary)** at **Event Organization Team**, that team name is **Lakshya** in Babu Banarsi Das University, Lucknow.
+- 🤝 In 2023-25, I'm the **CR(Class Representative)** at **M.C.A** in Babu Banarsi Das University, Lucknow.
+- 🤝 In 2024-25, I'm the **Discipline Head** at **Event Organization Team**, that team name is **Lakshya** in Babu Banarsi Das University, Lucknow. 
 
-- 💬 Ask me about anything, I am happy to help.
 
 - 👨‍💻 Join my community if you're a tech enthusiast.
 
-- 📄 [Know about my experiences].(https://drive.google.com/file/d/1SDAfsZQgZliUEn_oIXZuZM8aTgAM6Ccz/view?usp=share_link).
+- 📄 [Know about My Resume].(https://drive.google.com/file/d/1HUX9Q5THQ04v9RqdvcAO2obQgvRUjH6_/view?usp=drive_link).
+- 📄 [I'm writing a Research Paper and Published at International Journal of Scientific Research in Engineering and Management (IJSREM) in 2024].(https://www.researchgate.net/publication/387535762_AI-Enhanced_Automatic_Traffic_Violation_Detection_and_Challan_Issuance_using_GNSS_and_OBU_Sensors_in_Self-Driving_Cars)
 
-📊 <b>This Week I Spent My Time On</b>
 
-<!--START_SECTION:waka-->
-```text
-HTML     5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.70 % 
-Java     4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.59 % 
-JavaScript  1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░   13.85 % 
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Python          2 hrs        ███████████░░░░░░░░░░░░░░   00.31 % 
-```
-<!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arihant srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arihant srivastava" height="30" width="40" /></a>
-<a href="https://instagram.com/_active_human_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_active_human_14" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
